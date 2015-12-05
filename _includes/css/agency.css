@@ -10,6 +10,8 @@ body {
     color: #{{ site.color.secondary-dark }};
 }
 
+.navbar-brand{padding:10px 15px 20.5px !important;}
+
 .text-muted {
     color: #777;
 }
