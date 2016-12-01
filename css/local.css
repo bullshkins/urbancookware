@@ -1,0 +1,74 @@
+
+@media (min-width: 768px)
+section {
+    padding: 80px 0;
+}
+
+section {
+    padding: 80px 0;
+}
+
+.carousel {
+	background: #444444;
+	height: 400px;
+	width: 552px;
+}
+
+
+.carousel-inner .item img {
+}
+
+.carousel-caption {
+	font-size: 150%;
+	padding-bottom: 0px;
+}
+
+.carousel-indicators {
+    position: inherit;
+    width: 80%;
+    left: 40%;
+    margin-top: 30px;
+}
+
+.carousel-indicators li {
+    display: inline-block;
+     text-indent: 0px;
+    width: 55px; 
+    height: 55px;
+    margin: 1px; 
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+    background-color: #000 \9;
+    background-color: rgba(0,0,0,0);
+}
+
+.carousel-indicators .active {
+    margin: 0;
+    width: 55px; 
+    height: 55px;
+    border: 2px;
+    border-color: #A50519;
+    background-color: #f7f7f7;
+}
+
+.btn-default {
+    color: #ffffff;
+    background-color: #A50519;
+    border-color: #A50519;
+}
+
+.carousel-indicators .active .img-thumbnail {
+    padding: 2px;
+    line-height: 1.42857143;
+    background-color: #A50519;
+    border: 2px solid #A50519;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    display: inline-block;
+    width: 100% \9;
+    max-width: 100%;
+    height: auto;
+}
